@@ -9,7 +9,7 @@ Passionate about blending my tech skills with real-world problem solving.
 - Healthcare Tech: Developing data-driven solutions to improve healthcare access
   
 **Skills**
-- Languages: Java, Python, C, SQL, HTML, CSS, Python
+- Languages: Java, Python, C, SQL, HTML, CSS
 - Tech Tools: Git, SQL databases, JavaFX
 
 ## Let’s Connect
