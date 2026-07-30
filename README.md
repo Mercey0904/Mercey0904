@@ -9,8 +9,11 @@ Passionate about blending my tech skills with real-world problem solving.
 - Healthcare Tech: Developing data-driven solutions to improve healthcare access
   
 **Skills**
-- Languages: Java, Python, C, SQL, HTML, CSS
+- Languages: Java, Python, C, SQL, HTML, CSS, VB.Net
 - Tech Tools: Git, SQL databases, JavaFX
+
+**Past Collaboration Project**
+- Macro Calculator Recipe Provider: https://github.com/ahmed-mgd/gaga-recipes 
 
 ## Let’s Connect
 I’m always open to collaboration, especially on projects that drive social impact. Reach out if you'd like to work together!
